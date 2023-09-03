@@ -1,0 +1,15 @@
+.tac{
+    display: flex;
+    position:relative;
+    left: 0px;
+    font-size: 170%;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tac .tac1{
+    padding-right: 10px;
+
+    margin-right: 10px;
+}

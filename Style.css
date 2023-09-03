@@ -1,0 +1,42 @@
+.login {
+  display: flex;
+  justify-content: center;
+
+  padding-bottom: 45px;
+  padding-top: 30px;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+}
+
+.logins {
+  display: flex;
+  justify-content: center;
+  /* border: 4px solid black; */
+  padding-bottom: 40px;
+  padding-top: 25px;
+}
+.headings {
+  display: flex;
+  justify-content: center;
+}
+
+.product-menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.swiper-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  display: flex;
+  transition-property: transform;
+  box-sizing: content-box;
+}
+

@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
+
+:root {
+  --main-color: #443;
+  --border-radius: 95% 4% 97% 5% / 4% 94% 3% 95%;
+  --border-radius-hover: 4% 95% 6% 95% / 95% 4% 92% 5%;
+  --border: 0.2rem solid var(--main-color);
+  --border-hover: 0.2rem dashed var(--main-color);
+}
+
+
+
+#meso{
+    margin-top: -550px;
+}
+
+#meso2{
+    padding-bottom: 100px;
+}
+
+#meso4{
+  margin-top: -867px;
+}
+
+.form form{
+    display: flex;
+    flex-direction: column;
+    /* padding-top: 200px; */
+    align-items: center;
+    color: #443;
+
+}
+
+.form form button{
+
+    width: 100px;
+    align-items:start
+    var(--main-color)
+
+}
+
+.signup-t{
+    font-size: x-large;
+    font-weight: 800;
+    color: #443;
+
+}
